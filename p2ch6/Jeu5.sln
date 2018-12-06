@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu5", "Jeu5\Jeu5.csproj", "{8DA7D380-06A5-421B-9CAC-EA25A1082932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu5.UnitTests", "Jeu5.UnitTests\Jeu5.UnitTests.csproj", "{A5313F58-044D-47AD-8ABC-E31CB461D7B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA7D380-06A5-421B-9CAC-EA25A1082932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA7D380-06A5-421B-9CAC-EA25A1082932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA7D380-06A5-421B-9CAC-EA25A1082932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA7D380-06A5-421B-9CAC-EA25A1082932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5313F58-044D-47AD-8ABC-E31CB461D7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5313F58-044D-47AD-8ABC-E31CB461D7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5313F58-044D-47AD-8ABC-E31CB461D7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5313F58-044D-47AD-8ABC-E31CB461D7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D73D7C2F-7C96-4E15-A6C9-80EFBED90B72}
+	EndGlobalSection
+EndGlobal
